@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Modelos entrenados
+*.keras
+*.h5
+*.hdf5
+
+# Variables de entorno
+.env
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+
+# Dataset de imágenes médicas
+train/
+CC/

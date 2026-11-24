@@ -1,0 +1,4 @@
+﻿imagen,ruta_original,categoria_real,prediccion,puntuacion_poly,puntuacion_norm
+17_1.jpg,C:\Users\user\Documents\CancerColon_IA\dataset\CC\POLY\17_1.jpg,POLY,NORM,0.43208229541778564,0.5679176449775696
+18_1.jpg,C:\Users\user\Documents\CancerColon_IA\dataset\CC\POLY\18_1.jpg,POLY,NORM,0.47761014103889465,0.5223898887634277
+20_1.jpg,C:\Users\user\Documents\CancerColon_IA\dataset\CC\POLY\20_1.jpg,POLY,NORM,0.4268505871295929,0.5731494426727295

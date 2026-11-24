@@ -1,0 +1,3 @@
+﻿Modelo,Imágenes evaluadas,Accuracy (%),Precisión POLY (%),Sensibilidad POLY (%),F1 POLY (%),Especificidad (%),VP,VN,FP,FN,Épocas,Tiempo entrenamiento (s),Parámetros totales,Parámetros entrenables
+VGG19,812,99.6305,100.0,99.5098,99.7543,100.0,609,200,0,3,6,430.68,24383810,9062658
+MobileNetV2,812,96.0591,100.0,94.7712,97.3154,100.0,580,200,0,32,8,82.96,2586434,328450

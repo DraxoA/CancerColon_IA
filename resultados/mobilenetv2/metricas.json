@@ -1,0 +1,15 @@
+{
+    "modelo": "MobileNetV2",
+    "imagenes_evaluadas": 812,
+    "accuracy": 0.9605911330049262,
+    "precision_poly": 1.0,
+    "sensibilidad_poly": 0.9477124183006536,
+    "especificidad": 1.0,
+    "f1_poly": 0.9731543624161073,
+    "auc_roc": 0.9986274509803922,
+    "average_precision": 0.9995754287983618,
+    "verdaderos_positivos": 580,
+    "verdaderos_negativos": 200,
+    "falsos_positivos": 0,
+    "falsos_negativos": 32
+}
